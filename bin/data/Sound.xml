@@ -1,0 +1,28 @@
+<root>
+  <sound name="bgm1" file="./sound/terra_australis.m4a" loop="1"></sound>
+  <sound name="buttomDown" file="./sound/button_click.m4a" loop="0"></sound>
+  <sound name="simpleClick" file ="./sound/simple_click.m4a" loop="0"></sound>
+  <sound name="collision" file="./sound/cluster_bomb_collision.m4a" loop="0"></sound>
+  <sound name="ready" file="./sound/sling_ready.m4a" loop="0"></sound>
+  <sound name="shoot" file="./sound/sling_shot.m4a" loop="0"></sound>
+  <sound name="addBomb" file="./sound/bonus_add.m4a" loop="0"></sound>
+  <sound name="bomb1" file="./sound/bomb_explosion_1.m4a" loop="0"></sound>
+  <sound name="bomb2" file="./sound/bomb_explosion_2.m4a" loop="0"></sound>
+  <sound name="bomb3" file="./sound/bomb_explosion_3.m4a" loop="0"></sound>
+  <sound name="bomb4" file="./sound/bomb_explosion_4.m4a" loop="0"></sound>
+  <sound name="change" file="./sound/scrolling_episodes.m4a" loop="0"></sound>
+  <sound name="turnIn" file="./sound/slides_in.m4a" loop="0"></sound>
+  <sound name="intoIce" file="./sound/glass_creak_1.m4a" loop="0"></sound>
+  <sound name="greenDepart" file="./sound/cluster_bomb_depart.m4a" loop="0"></sound>
+  <sound name="greenCol" file="./sound/cluster_bomb_collision.m4a" loop="0"></sound>
+  <sound name="rotateFly1" file="./sound/flying_bomb_fly_1.m4a" loop="0"></sound>
+  <sound name="rotateFly2" file="./sound/flying_bomb_fly_2.m4a" loop="0"></sound>
+  <sound name="great" file="./sound/great.m4a" loop="0"></sound>
+  <sound name="outstading" file="./sound/outstanding.m4a" loop="0"></sound>
+  <sound name="amazing" file="./sound/amazing.m4a" loop="0"></sound>
+  <sound name="failed" file="./sound/level_failed.m4a" loop="0"></sound>
+  <sound name="win" file="./sound/level_complete.m4a" loop="0"></sound>
+  <sound name="performance" file="./sound/super_performance.m4a" loop="0"></sound>
+  <sound name="rocketFly" file="./sound/rocket_bomb.m4a" loop="0"></sound>
+  <sound name="addBomb" file="./sound/bonus_add.m4a" loop="0"></sound>
+</root>

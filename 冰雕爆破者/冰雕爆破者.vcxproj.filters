@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="System">
+      <UniqueIdentifier>{6afce7a8-5e8c-4dc0-909e-70fa5404ec04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="框架">
+      <UniqueIdentifier>{e0925abf-e1b1-4f28-aad9-4386d266507b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="框架\资源">
+      <UniqueIdentifier>{594c590f-7225-4e6d-b673-bb9d17b4d0d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="框架\精灵">
+      <UniqueIdentifier>{be8aff7c-3d47-4570-95e2-9c873162e2fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="框架\UI">
+      <UniqueIdentifier>{cec45e7a-cf15-4189-a213-8a5023f4e1fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="框架\游戏管理">
+      <UniqueIdentifier>{a4c83016-dbe9-4a1c-b9c6-68502e6ed819}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="框架\输入监听">
+      <UniqueIdentifier>{6de15a65-c4c8-4675-8817-744377b597d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="框架\平台&amp;工具">
+      <UniqueIdentifier>{8661fded-b5d6-42f7-b428-38ae88f03b7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="框架\游戏对象">
+      <UniqueIdentifier>{8af5630c-1e22-4514-8fe9-0f3b42990d9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="框架\内存管理">
+      <UniqueIdentifier>{33fbc208-a747-4302-bc30-78a94e4d4072}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="框架\tinyXML">
+      <UniqueIdentifier>{5390d363-5607-4336-ab38-46641696f9ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏场景">
+      <UniqueIdentifier>{aaa98c91-323c-40ca-92f4-d23ddae03e78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="炸弹&amp;发射器">
+      <UniqueIdentifier>{497fb4d1-2263-4cad-9b21-93b85ab2dfcf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="炸弹&amp;发射器\炸弹">
+      <UniqueIdentifier>{a808b8e1-b9eb-4553-b7c1-fabf8f685c10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="框架\动效">
+      <UniqueIdentifier>{f8a6045a-5856-40ea-bcd4-ae6cb6b7f46a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="框架\声音管理">
+      <UniqueIdentifier>{2a80d61a-4122-458f-b1dd-4eef3acdded5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="配置文件">
+      <UniqueIdentifier>{39e19f59-6631-4138-b89c-9d25a05b2c78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="关卡">
+      <UniqueIdentifier>{b7cb9fe7-880b-4ec7-b513-20c96633ef51}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>System</Filter>
+    </ClCompile>
+    <ClCompile Include="ResManager.cpp">
+      <Filter>框架\资源</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>框架\资源</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>框架\精灵</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>框架\精灵</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>框架\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>框架\游戏管理</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScene.cpp">
+      <Filter>框架\游戏管理</Filter>
+    </ClCompile>
+    <ClCompile Include="InputManager.cpp">
+      <Filter>框架\输入监听</Filter>
+    </ClCompile>
+    <ClCompile Include="Platform.cpp">
+      <Filter>框架\平台&amp;工具</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionObj.cpp">
+      <Filter>框架\游戏对象</Filter>
+    </ClCompile>
+    <ClCompile Include="..\include\vfxdebug.cpp">
+      <Filter>框架\内存管理</Filter>
+    </ClCompile>
+    <ClCompile Include="..\include\vfxmemory.cpp">
+      <Filter>框架\内存管理</Filter>
+    </ClCompile>
+    <ClCompile Include="冰雕爆破者.cpp" />
+    <ClCompile Include="PlayScene.cpp">
+      <Filter>游戏场景</Filter>
+    </ClCompile>
+    <ClCompile Include="LoginScene.cpp">
+      <Filter>游戏场景</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectScene.cpp">
+      <Filter>游戏场景</Filter>
+    </ClCompile>
+    <ClCompile Include="WaitScene.cpp">
+      <Filter>游戏场景</Filter>
+    </ClCompile>
+    <ClCompile Include="BombShooter.cpp">
+      <Filter>炸弹&amp;发射器</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimHander.cpp">
+      <Filter>框架\动效</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimManager.cpp">
+      <Filter>框架\动效</Filter>
+    </ClCompile>
+    <ClCompile Include="Audio4Bass.cpp">
+      <Filter>框架\声音管理</Filter>
+    </ClCompile>
+    <ClCompile Include="NormalBomb.cpp">
+      <Filter>炸弹&amp;发射器\炸弹</Filter>
+    </ClCompile>
+    <ClCompile Include="RoundButton.cpp">
+      <Filter>框架\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelManager.cpp">
+      <Filter>关卡</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelButtom.cpp">
+      <Filter>关卡</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuScene.cpp">
+      <Filter>游戏场景</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseBomb.cpp">
+      <Filter>炸弹&amp;发射器\炸弹</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticBomb.cpp">
+      <Filter>炸弹&amp;发射器\炸弹</Filter>
+    </ClCompile>
+    <ClCompile Include="BombLine.cpp">
+      <Filter>炸弹&amp;发射器</Filter>
+    </ClCompile>
+    <ClCompile Include="TripleBomb.cpp">
+      <Filter>炸弹&amp;发射器\炸弹</Filter>
+    </ClCompile>
+    <ClCompile Include="RotateBomb.cpp">
+      <Filter>炸弹&amp;发射器\炸弹</Filter>
+    </ClCompile>
+    <ClCompile Include="FailScene.cpp">
+      <Filter>游戏场景</Filter>
+    </ClCompile>
+    <ClCompile Include="WinScene.cpp">
+      <Filter>游戏场景</Filter>
+    </ClCompile>
+    <ClCompile Include="RocketBomb.cpp">
+      <Filter>炸弹&amp;发射器\炸弹</Filter>
+    </ClCompile>
+    <ClCompile Include="NewBombs.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="ResManager.h">
+      <Filter>框架\资源</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>框架\资源</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>框架\精灵</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>框架\精灵</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>框架\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>框架\游戏管理</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScene.h">
+      <Filter>框架\游戏管理</Filter>
+    </ClInclude>
+    <ClInclude Include="Listener.h">
+      <Filter>框架\输入监听</Filter>
+    </ClInclude>
+    <ClInclude Include="InputManager.h">
+      <Filter>框架\输入监听</Filter>
+    </ClInclude>
+    <ClInclude Include="SEvent.h">
+      <Filter>框架\输入监听</Filter>
+    </ClInclude>
+    <ClInclude Include="Tool.h">
+      <Filter>框架\平台&amp;工具</Filter>
+    </ClInclude>
+    <ClInclude Include="Platform.h">
+      <Filter>框架\平台&amp;工具</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>框架\平台&amp;工具</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionObj.h">
+      <Filter>框架\游戏对象</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\vfxdebug.h">
+      <Filter>框架\内存管理</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\vfxmemory.h">
+      <Filter>框架\内存管理</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\tinystr.h">
+      <Filter>框架\tinyXML</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\tinyxml.h">
+      <Filter>框架\tinyXML</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayScene.h">
+      <Filter>游戏场景</Filter>
+    </ClInclude>
+    <ClInclude Include="LoginScene.h">
+      <Filter>游戏场景</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectScene.h">
+      <Filter>游戏场景</Filter>
+    </ClInclude>
+    <ClInclude Include="WaitScene.h">
+      <Filter>游戏场景</Filter>
+    </ClInclude>
+    <ClInclude Include="BombShooter.h">
+      <Filter>炸弹&amp;发射器</Filter>
+    </ClInclude>
+    <ClInclude Include="IAnimable.h">
+      <Filter>框架\动效</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimHander.h">
+      <Filter>框架\动效</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimManager.h">
+      <Filter>框架\动效</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\bass.h">
+      <Filter>框架\声音管理</Filter>
+    </ClInclude>
+    <ClInclude Include="Audio4Bass.h">
+      <Filter>框架\声音管理</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseBomb.h">
+      <Filter>炸弹&amp;发射器\炸弹</Filter>
+    </ClInclude>
+    <ClInclude Include="NormalBomb.h">
+      <Filter>炸弹&amp;发射器\炸弹</Filter>
+    </ClInclude>
+    <ClInclude Include="RoundButton.h">
+      <Filter>框架\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelManager.h">
+      <Filter>关卡</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelButtom.h">
+      <Filter>关卡</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuScene.h">
+      <Filter>游戏场景</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticBomb.h">
+      <Filter>炸弹&amp;发射器\炸弹</Filter>
+    </ClInclude>
+    <ClInclude Include="BombLine.h">
+      <Filter>炸弹&amp;发射器</Filter>
+    </ClInclude>
+    <ClInclude Include="TripleBomb.h">
+      <Filter>炸弹&amp;发射器\炸弹</Filter>
+    </ClInclude>
+    <ClInclude Include="RotateBomb.h">
+      <Filter>炸弹&amp;发射器\炸弹</Filter>
+    </ClInclude>
+    <ClInclude Include="FailScene.h">
+      <Filter>游戏场景</Filter>
+    </ClInclude>
+    <ClInclude Include="WinScene.h">
+      <Filter>游戏场景</Filter>
+    </ClInclude>
+    <ClInclude Include="RocketBomb.h">
+      <Filter>炸弹&amp;发射器\炸弹</Filter>
+    </ClInclude>
+    <ClInclude Include="NewBombs.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="..\bin\data\Anim.xml">
+      <Filter>配置文件</Filter>
+    </Xml>
+    <Xml Include="..\bin\data\levelsLayout.xml">
+      <Filter>配置文件</Filter>
+    </Xml>
+    <Xml Include="..\bin\data\levelsInfo.xml">
+      <Filter>配置文件</Filter>
+    </Xml>
+    <Xml Include="..\bin\data\levelsData.xml">
+      <Filter>配置文件</Filter>
+    </Xml>
+    <Xml Include="..\bin\data\Res.xml">
+      <Filter>配置文件</Filter>
+    </Xml>
+  </ItemGroup>
+</Project>

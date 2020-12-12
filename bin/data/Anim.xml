@@ -1,0 +1,356 @@
+<!--
+<anim name="">
+  <fix name="" center=""></fix>
+  <loop set="" param="" loop="" delay="">
+    <rotate target="" set="" param="" loop="" delay=""></rotate>
+    <posx target="" set="" param="" loop="" delay=""></posx>
+    <posy target="" set="" param="" loop="" delay=""></posy>
+    <scalingx target="" set="" param="" loop="" delay=""></scalingx>
+    <scalingy target="" set="" param="" loop="" delay=""></scalingy>
+    <blend target="" set="" param="" loop="" delay=""></blend>
+  </loop>
+</anim>
+-->
+<anim name="play_N">
+  <fix name="play" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="1" delay="0">
+    <scalingx target="play" set="1" param="0.5827" loop="1" delay="0"></scalingx>
+    <scalingy target="play" set="1" param="0.5827" loop="1" delay="0"></scalingy>
+    <posy target="play" set="1" param="400" loop="1" delay="0"></posy>
+    <posx target="play" set="1" param="240" loop="1" delay="0"></posx>
+  </loop>
+</anim>
+
+<anim name="play_I">
+  <fix name="play" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="1" delay="0">
+    <scalingx target="play" set="1" param="0.5827" loop="1" delay="0"></scalingx>
+    <scalingy target="play" set="1" param="0.5827" loop="1" delay="0"></scalingy>
+    <posy target="play" set="1" param="401" loop="1" delay="0"></posy>
+    <posx target="play" set="1" param="240" loop="1" delay="0"></posx>
+  </loop>
+</anim>
+
+<anim name="play_D">
+  <fix name="mmflare" center="CEN|MID"></fix>
+  <fix name="play" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="12" delay="0">
+    <scalingx target="play" set="1" param="0.5827" loop="1" delay="0"></scalingx>
+    <scalingy target="play" set="1" param="0.5827" loop="1" delay="0"></scalingy>
+    <scalingx target="mmflare" set="1" param="0.5" loop="1" delay="0"></scalingx>
+    <scalingy target="mmflare" set="1" param="0.5" loop="1" delay="0"></scalingy>
+    <blend target="mmflare" set="1" param="0" loop="1" delay="0"></blend>
+    <scalingx target="mmflare" set="0" param="0.09" loop="10" delay="0"></scalingx>
+    <scalingy target="mmflare" set="0" param="0.09" loop="10" delay="0"></scalingy>
+    <scalingx target="mmflare" set="0" param="0.14" loop="5" delay="0"></scalingx>
+    <scalingy target="mmflare" set="0" param="0.14" loop="5" delay="0"></scalingy>
+    <blend target="mmflare" set="0" param="17" loop="15" delay="0"></blend>
+  </loop>
+</anim>
+
+<anim name="back_N">
+  <fix name="back" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="1" delay="0">
+    <scalingx target="back" set="1" param="0.5827" loop="1" delay="0"></scalingx>
+    <scalingy target="back" set="1" param="0.5827" loop="1" delay="0"></scalingy>
+    <posy target="back" set="1" param="670" loop="1" delay="0"></posy>
+    <posx target="back" set="1" param="100" loop="1" delay="0"></posx>
+  </loop>
+</anim>
+
+<anim name="back_I">
+  <fix name="back" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="1" delay="0">
+    <scalingx target="back" set="1" param="0.5827" loop="1" delay="0"></scalingx>
+    <scalingy target="back" set="1" param="0.5827" loop="1" delay="0"></scalingy>
+    <posy target="back" set="1" param="671" loop="1" delay="0"></posy>
+    <posx target="back" set="1" param="100" loop="1" delay="0"></posx>
+  </loop>
+</anim>
+
+<anim name="back_D">
+  <fix name="back" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="1" delay="0">
+    <scalingx target="back" set="1" param="0.5827" loop="1" delay="0"></scalingx>
+    <scalingy target="back" set="1" param="0.5827" loop="1" delay="0"></scalingy>
+    <posy target="back" set="1" param="670" loop="1" delay="0"></posy>
+    <posx target="back" set="1" param="100" loop="1" delay="0"></posx>
+  </loop>
+</anim>
+
+<anim name="blendIn">
+  <loop set="0" param="0" loop="18" delay="0">
+    <blend target="" set="1" param="0" loop="1" delay="0"></blend>
+    <blend target="" set="0" param="15" loop="17" delay="1"></blend>
+  </loop>
+</anim>
+
+<anim name="exchange_N">
+  <loop set="0" param="0" loop="1" delay="0">
+  </loop>
+</anim>
+
+<anim name="exchange_D">
+  <fix name="exchange_arrow_h" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="1" delay="0">
+    <scalingx target="exchange_arrow_h" set="1" param="0.78" loop="1" delay="0"></scalingx>
+    <scalingy target="exchange_arrow_h" set="1" param="0.78" loop="1" delay="0"></scalingy>
+  </loop>
+</anim>
+
+<anim name="menu_N">
+  <loop set="0" param="0" loop="1" delay="0">
+  </loop>
+</anim>
+
+<anim name="menu_D">
+  <fix name="menu_h" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="1" delay="0">
+    <blend target="menu_h" set="1" param="140" loop="1" delay="0"></blend>
+    <scalingx target="menu_h" set="1" param="0.78" loop="1" delay="0"></scalingx>
+    <scalingy target="menu_h" set="1" param="0.78" loop="1" delay="0"></scalingy>
+  </loop>
+</anim>
+
+<anim name="continue_N">
+  <fix name="continue" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="1" delay="0">
+    <scalingx target="continue" set="1" param="0.5827" loop="1" delay="0"></scalingx>
+    <scalingy target="continue" set="1" param="0.5827" loop="1" delay="0"></scalingy>
+    <posy target="continue" set="1" param="250" loop="1" delay="0"></posy>
+    <posx target="continue" set="1" param="240" loop="1" delay="0"></posx>
+  </loop>
+</anim>
+
+<anim name="continue_I">
+  <fix name="continue" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="1" delay="0">
+    <scalingx target="continue" set="1" param="0.5827" loop="1" delay="0"></scalingx>
+    <scalingy target="continue" set="1" param="0.5827" loop="1" delay="0"></scalingy>
+    <posy target="continue" set="1" param="251" loop="1" delay="0"></posy>
+    <posx target="continue" set="1" param="240" loop="1" delay="0"></posx>
+  </loop>
+</anim>
+
+<anim name="continue_D">
+  <fix name="continue" center="CEN|MID"></fix>
+  <fix name="mmflare" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="12" delay="0">
+    <scalingx target="continue" set="1" param="0.5827" loop="1" delay="0"></scalingx>
+    <scalingy target="continue" set="1" param="0.5827" loop="1" delay="0"></scalingy>
+    <posy target="continue" set="1" param="250" loop="1" delay="0"></posy>
+    <posx target="continue" set="1" param="240" loop="1" delay="0"></posx>
+    <scalingx target="mmflare" set="1" param="0.5" loop="1" delay="0"></scalingx>
+    <scalingy target="mmflare" set="1" param="0.5" loop="1" delay="0"></scalingy>
+    <blend target="mmflare" set="1" param="0" loop="1" delay="0"></blend>
+    <scalingx target="mmflare" set="0" param="0.09" loop="10" delay="0"></scalingx>
+    <scalingy target="mmflare" set="0" param="0.09" loop="10" delay="0"></scalingy>
+    <scalingx target="mmflare" set="0" param="0.14" loop="5" delay="0"></scalingx>
+    <scalingy target="mmflare" set="0" param="0.14" loop="5" delay="0"></scalingy>
+    <blend target="mmflare" set="0" param="8" loop="15" delay="0"></blend>
+  </loop>
+</anim>
+
+<anim name="select_N">
+  <fix name="select" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="1" delay="0">
+    <scalingx target="select" set="1" param="0.7" loop="1" delay="0"></scalingx>
+    <scalingy target="select" set="1" param="0.7" loop="1" delay="0"></scalingy>
+    <posy target="select" set="1" param="510" loop="1" delay="0"></posy>
+    <posx target="select" set="1" param="110" loop="1" delay="0"></posx>
+  </loop>
+</anim>
+
+<anim name="select_I">
+  <fix name="select" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="1" delay="0">
+    <scalingx target="select" set="1" param="0.7" loop="1" delay="0"></scalingx>
+    <scalingy target="select" set="1" param="0.7" loop="1" delay="0"></scalingy>
+    <posy target="select" set="1" param="511" loop="1" delay="0"></posy>
+    <posx target="select" set="1" param="110" loop="1" delay="0"></posx>
+  </loop>
+</anim>
+
+<anim name="select_D">
+  <fix name="mmflare_blue" center="CEN|MID"></fix>
+  <fix name="select" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="12" delay="0">
+    <scalingx target="select" set="1" param="0.7" loop="1" delay="0"></scalingx>
+    <scalingy target="select" set="1" param="0.7" loop="1" delay="0"></scalingy>
+    <posy target="select" set="1" param="510" loop="1" delay="0"></posy>
+    <posx target="select" set="1" param="110" loop="1" delay="0"></posx>
+    <scalingx target="mmflare_blue" set="1" param="0.5" loop="1" delay="0"></scalingx>
+    <scalingy target="mmflare_blue" set="1" param="0.5" loop="1" delay="0"></scalingy>
+    <blend target="mmflare_blue" set="1" param="0" loop="1" delay="0"></blend>
+    <scalingx target="mmflare_blue" set="0" param="0.06" loop="10" delay="0"></scalingx>
+    <scalingy target="mmflare_blue" set="0" param="0.06" loop="10" delay="0"></scalingy>
+    <scalingx target="mmflare_blue" set="0" param="0.05" loop="5" delay="0"></scalingx>
+    <scalingy target="mmflare_blue" set="0" param="0.05" loop="5" delay="0"></scalingy>
+    <blend target="mmflare_blue" set="0" param="10" loop="15" delay="0"></blend>
+  </loop>
+</anim>
+
+<anim name="replay_N">
+  <fix name="replay" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="1" delay="0">
+    <scalingx target="replay" set="1" param="0.7" loop="1" delay="0"></scalingx>
+    <scalingy target="replay" set="1" param="0.7" loop="1" delay="0"></scalingy>
+    <posy target="replay" set="1" param="510" loop="1" delay="0"></posy>
+    <posx target="replay" set="1" param="370" loop="1" delay="0"></posx>
+  </loop>
+</anim>
+
+<anim name="replay_I">
+  <fix name="replay" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="1" delay="0">
+    <scalingx target="replay" set="1" param="0.7" loop="1" delay="0"></scalingx>
+    <scalingy target="replay" set="1" param="0.7" loop="1" delay="0"></scalingy>
+    <posy target="replay" set="1" param="511" loop="1" delay="0"></posy>
+    <posx target="replay" set="1" param="370" loop="1" delay="0"></posx>
+  </loop>
+</anim>
+
+<anim name="replay_D">
+  <fix name="mmflare_green" center="CEN|MID"></fix>
+  <fix name="replay" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="12" delay="0">
+    <scalingx target="replay" set="1" param="0.7" loop="1" delay="0"></scalingx>
+    <scalingy target="replay" set="1" param="0.7" loop="1" delay="0"></scalingy>
+    <posy target="replay" set="1" param="510" loop="1" delay="0"></posy>
+    <posx target="replay" set="1" param="370" loop="1" delay="0"></posx>
+    <scalingx target="mmflare_green" set="1" param="0.5" loop="1" delay="0"></scalingx>
+    <scalingy target="mmflare_green" set="1" param="0.5" loop="1" delay="0"></scalingy>
+    <blend target="mmflare_green" set="1" param="0" loop="1" delay="0"></blend>
+    <scalingx target="mmflare_green" set="0" param="0.06" loop="10" delay="0"></scalingx>
+    <scalingy target="mmflare_green" set="0" param="0.06" loop="10" delay="0"></scalingy>
+    <scalingx target="mmflare_green" set="0" param="0.05" loop="5" delay="0"></scalingx>
+    <scalingy target="mmflare_green" set="0" param="0.05" loop="5" delay="0"></scalingy>
+    <blend target="mmflare_green" set="0" param="10" loop="15" delay="0"></blend>
+  </loop>
+</anim>
+
+<anim name="special">
+  <loop set="0" param="0" loop="50" delay="0">
+    <scalingx target="" set="1" param="0.0" loop="1" delay="0"></scalingx>
+    <scalingy target="" set="1" param="0.0" loop="1" delay="0"></scalingy>
+    <scalingx target="" set="0" param="0.02" loop="40" delay="0"></scalingx>
+    <scalingy target="" set="0" param="0.02" loop="40" delay="0"></scalingy>
+  </loop>
+</anim>
+
+<anim name="replayF_N">
+  <fix name="replay" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="1" delay="0">
+    <scalingx target="replay" set="1" param="0.7" loop="1" delay="0"></scalingx>
+    <scalingy target="replay" set="1" param="0.7" loop="1" delay="0"></scalingy>
+    <posy target="replay" set="1" param="580" loop="1" delay="0"></posy>
+    <posx target="replay" set="1" param="370" loop="1" delay="0"></posx>
+  </loop>
+</anim>
+
+<anim name="replayF_I">
+  <fix name="replay" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="1" delay="0">
+    <scalingx target="replay" set="1" param="0.7" loop="1" delay="0"></scalingx>
+    <scalingy target="replay" set="1" param="0.7" loop="1" delay="0"></scalingy>
+    <posy target="replay" set="1" param="581" loop="1" delay="0"></posy>
+    <posx target="replay" set="1" param="370" loop="1" delay="0"></posx>
+  </loop>
+</anim>
+
+<anim name="replayF_D">
+  <fix name="mmflare_green" center="CEN|MID"></fix>
+  <fix name="replay" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="12" delay="0">
+    <scalingx target="replay" set="1" param="0.7" loop="1" delay="0"></scalingx>
+    <scalingy target="replay" set="1" param="0.7" loop="1" delay="0"></scalingy>
+    <posy target="replay" set="1" param="580" loop="1" delay="0"></posy>
+    <posx target="replay" set="1" param="370" loop="1" delay="0"></posx>
+    <scalingx target="mmflare_green" set="1" param="0.5" loop="1" delay="0"></scalingx>
+    <scalingy target="mmflare_green" set="1" param="0.5" loop="1" delay="0"></scalingy>
+    <blend target="mmflare_green" set="1" param="0" loop="1" delay="0"></blend>
+    <scalingx target="mmflare_green" set="0" param="0.06" loop="10" delay="0"></scalingx>
+    <scalingy target="mmflare_green" set="0" param="0.06" loop="10" delay="0"></scalingy>
+    <scalingx target="mmflare_green" set="0" param="0.05" loop="5" delay="0"></scalingx>
+    <scalingy target="mmflare_green" set="0" param="0.05" loop="5" delay="0"></scalingy>
+    <blend target="mmflare_green" set="0" param="10" loop="15" delay="0"></blend>
+  </loop>
+</anim>
+
+<anim name="selectF_N">
+  <fix name="select" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="1" delay="0">
+    <scalingx target="select" set="1" param="0.7" loop="1" delay="0"></scalingx>
+    <scalingy target="select" set="1" param="0.7" loop="1" delay="0"></scalingy>
+    <posy target="select" set="1" param="580" loop="1" delay="0"></posy>
+    <posx target="select" set="1" param="110" loop="1" delay="0"></posx>
+  </loop>
+</anim>
+
+<anim name="selectF_I">
+  <fix name="select" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="1" delay="0">
+    <scalingx target="select" set="1" param="0.7" loop="1" delay="0"></scalingx>
+    <scalingy target="select" set="1" param="0.7" loop="1" delay="0"></scalingy>
+    <posy target="select" set="1" param="581" loop="1" delay="0"></posy>
+    <posx target="select" set="1" param="110" loop="1" delay="0"></posx>
+  </loop>
+</anim>
+
+<anim name="selectF_D">
+  <fix name="mmflare_blue" center="CEN|MID"></fix>
+  <fix name="select" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="12" delay="0">
+    <scalingx target="select" set="1" param="0.7" loop="1" delay="0"></scalingx>
+    <scalingy target="select" set="1" param="0.7" loop="1" delay="0"></scalingy>
+    <posy target="select" set="1" param="580" loop="1" delay="0"></posy>
+    <posx target="select" set="1" param="110" loop="1" delay="0"></posx>
+    <scalingx target="mmflare_blue" set="1" param="0.5" loop="1" delay="0"></scalingx>
+    <scalingy target="mmflare_blue" set="1" param="0.5" loop="1" delay="0"></scalingy>
+    <blend target="mmflare_blue" set="1" param="0" loop="1" delay="0"></blend>
+    <scalingx target="mmflare_blue" set="0" param="0.06" loop="10" delay="0"></scalingx>
+    <scalingy target="mmflare_blue" set="0" param="0.06" loop="10" delay="0"></scalingy>
+    <scalingx target="mmflare_blue" set="0" param="0.05" loop="5" delay="0"></scalingx>
+    <scalingy target="mmflare_blue" set="0" param="0.05" loop="5" delay="0"></scalingy>
+    <blend target="mmflare_blue" set="0" param="10" loop="15" delay="0"></blend>
+  </loop>
+</anim>
+
+<anim name="next_N">
+  <fix name="next" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="1" delay="0">
+    <scalingx target="next" set="1" param="0.7" loop="1" delay="0"></scalingx>
+    <scalingy target="next" set="1" param="0.7" loop="1" delay="0"></scalingy>
+    <posy target="next" set="1" param="400" loop="1" delay="0"></posy>
+    <posx target="next" set="1" param="240" loop="1" delay="0"></posx>
+  </loop>
+</anim>
+
+<anim name="next_I">
+  <fix name="next" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="1" delay="0">
+    <scalingx target="next" set="1" param="0.7" loop="1" delay="0"></scalingx>
+    <scalingy target="next" set="1" param="0.7" loop="1" delay="0"></scalingy>
+    <posy target="next" set="1" param="401" loop="1" delay="0"></posy>
+    <posx target="next" set="1" param="240" loop="1" delay="0"></posx>
+  </loop>
+</anim>
+
+<anim name="next_D">
+  <fix name="mmflare_green" center="CEN|MID"></fix>
+  <fix name="next" center="CEN|MID"></fix>
+  <loop set="0" param="0" loop="12" delay="0">
+    <scalingx target="next" set="1" param="0.7" loop="1" delay="0"></scalingx>
+    <scalingy target="next" set="1" param="0.7" loop="1" delay="0"></scalingy>
+    <posy target="next" set="1" param="400" loop="1" delay="0"></posy>
+    <posx target="next" set="1" param="240" loop="1" delay="0"></posx>
+    <scalingx target="mmflare_green" set="1" param="0.5" loop="1" delay="0"></scalingx>
+    <scalingy target="mmflare_green" set="1" param="0.5" loop="1" delay="0"></scalingy>
+    <blend target="mmflare_green" set="1" param="0" loop="1" delay="0"></blend>
+    <scalingx target="mmflare_green" set="0" param="0.12" loop="10" delay="0"></scalingx>
+    <scalingy target="mmflare_green" set="0" param="0.12" loop="10" delay="0"></scalingy>
+    <scalingx target="mmflare_green" set="0" param="0.05" loop="5" delay="0"></scalingx>
+    <scalingy target="mmflare_green" set="0" param="0.05" loop="5" delay="0"></scalingy>
+    <blend target="mmflare_green" set="0" param="10" loop="15" delay="0"></blend>
+  </loop>
+</anim>

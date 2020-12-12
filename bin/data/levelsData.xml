@@ -1,0 +1,1118 @@
+<Root>
+    <Level xAdjust="-10">
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <iniBomb posX="360" posY="260" />
+        <iniBomb posX="195" posY="278" />
+        <iniBomb posX="390" posY="420" />
+        <iniBomb posX="300" posY="424" />
+        <iniBomb posX="200" posY="424" />
+        <iniBomb posX="100" posY="413" />
+        <newBomb type="1" posX="270" posY="246" life="3" time="3" />
+    </Level>
+    <Level xAdjust="1">
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <newBomb type="2" posX="247" posY="425" life="3" time="2" />
+    </Level>
+    <Level xAdjust="-18">
+        <bomb type="2" />
+        <bomb type="4" />
+        <bomb type="2" />
+        <bomb type="4" />
+        <bomb type="5" />
+        <bomb type="4" />
+        <iniBomb posX="90" posY="127" />
+        <iniBomb posX="250" posY="87" />
+        <iniBomb posX="393" posY="94" />
+        <newBomb type="1" posX="167" posY="120" life="3" time="1" />
+    </Level>
+    <Level xAdjust="1">
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="4" />
+        <newBomb type="2" posX="284" posY="149" life="3" time="2" />
+    </Level>
+    <Level xAdjust="1">
+        <bomb type="4" />
+        <bomb type="4" />
+        <bomb type="4" />
+        <bomb type="4" />
+    </Level>
+    <Level xAdjust="1">
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="4" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <newBomb type="4" posX="207" posY="170" life="3" time="1" />
+    </Level>
+    <Level xAdjust="1">
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="4" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <iniBomb posX="237" posY="111" />
+        <iniBomb posX="157" posY="170" />
+        <iniBomb posX="317" posY="168" />
+        <iniBomb posX="395" posY="216" />
+        <iniBomb posX="81" posY="216" />
+    </Level>
+    <Level xAdjust="1">
+        <bomb type="2" />
+        <bomb type="4" />
+        <bomb type="1" />
+        <newBomb type="4" posX="405" posY="138" life="3" time="1" />
+    </Level>
+    <Level xAdjust="1">
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="4" />
+        <newBomb type="4" posX="329" posY="137" life="3" time="1" />
+    </Level>
+    <Level xAdjust="1">
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <iniBomb posX="55" posY="126" />
+        <iniBomb posX="136" posY="75" />
+        <iniBomb posX="234" posY="53" />
+        <iniBomb posX="319" posY="86" />
+        <newBomb type="4" posX="374" posY="155" life="3" time="1" />
+    </Level>
+    <Level xAdjust="1">
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <newBomb type="2" posX="138" posY="303" life="3" time="2" />
+    </Level>
+    <Level xAdjust="-15">
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <newBomb type="4" posX="228" posY="177" life="3" time="1" />
+    </Level>
+    <Level xAdjust="1">
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="1" />
+        <bomb type="4" />
+        <bomb type="1" />
+        <newBomb type="4" posX="247" posY="151" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-32">
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="4" />
+        <iniBomb posX="275" posY="169" />
+        <iniBomb posX="210" posY="244" />
+        <newBomb type="4" posX="238" posY="55" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-11">
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="4" />
+        <iniBomb posX="167" posY="216" />
+        <iniBomb posX="301" posY="279" />
+        <newBomb type="2" posX="212" posY="125" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-37">
+        <bomb type="5" />
+        <newBomb type="4" posX="195" posY="186" life="3" time="1" />
+        <newBomb type="2" posX="87" posY="49" life="3" time="2" />
+    </Level>
+    <Level xAdjust="-29">
+        <bomb type="5" />
+        <newBomb type="1" posX="273" posY="61" life="3" time="1" />
+        <newBomb type="4" posX="313" posY="381" life="3" time="2" />
+        <newBomb type="5" posX="99" posY="250" life="1" time="4" />
+    </Level>
+    <Level xAdjust="-39">
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="5" />
+        <bomb type="1" />
+        <newBomb type="2" posX="79" posY="241" life="3" time="1" />
+        <newBomb type="2" posX="420" posY="137" life="3" time="4" />
+    </Level>
+    <Level xAdjust="1">
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="4" />
+        <iniBomb posX="57" posY="304" />
+        <iniBomb posX="212" posY="294" />
+        <newBomb type="5" posX="230" posY="207" life="2" time="3" />
+    </Level>
+    <Level xAdjust="1">
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="4" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="1" />
+        <iniBomb posX="91" posY="264" />
+        <iniBomb posX="240" posY="432" />
+    </Level>
+    <Level xAdjust="-14">
+        <bomb type="5" />
+        <bomb type="2" />
+        <newBomb type="1" posX="227" posY="146" life="3" time="1" />
+        <newBomb type="4" posX="237" posY="276" life="3" time="3" />
+        <newBomb type="2" posX="352" posY="181" life="2" time="5" />
+    </Level>
+    <Level xAdjust="-29">
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <newBomb type="4" posX="90" posY="199" life="3" time="2" />
+    </Level>
+    <Level xAdjust="-24">
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <newBomb type="4" posX="289" posY="137" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-43">
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="4" />
+    </Level>
+    <Level xAdjust="-32">
+        <bomb type="4" />
+        <bomb type="4" />
+        <bomb type="1" />
+        <iniBomb posX="123" posY="124" />
+        <iniBomb posX="218" posY="63" />
+        <iniBomb posX="333" posY="123" />
+    </Level>
+    <Level xAdjust="1">
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="1" />
+    </Level>
+    <Level xAdjust="-41">
+        <bomb type="1" />
+        <bomb type="5" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <iniBomb posX="135" posY="243" />
+        <iniBomb posX="324" posY="242" />
+        <newBomb type="4" posX="233" posY="260" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-31">
+        <bomb type="4" />
+        <bomb type="2" />
+        <bomb type="4" />
+        <bomb type="1" />
+        <bomb type="1" />
+    </Level>
+    <Level xAdjust="-35">
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <iniBomb posX="182" posY="127" />
+        <iniBomb posX="271" posY="43" />
+        <iniBomb posX="349" posY="101" />
+        <iniBomb posX="380" posY="188" />
+        <newBomb type="4" posX="143" posY="60" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-29">
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="4" />
+        <bomb type="1" />
+    </Level>
+    <Level xAdjust="-27">
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <iniBomb posX="118" posY="69" />
+        <iniBomb posX="291" posY="91" />
+        <iniBomb posX="384" posY="180" />
+        <newBomb type="4" posX="51" posY="365" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-42">
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <iniBomb posX="172" posY="63" />
+        <iniBomb posX="199" posY="152" />
+        <iniBomb posX="198" posY="225" />
+        <iniBomb posX="263" posY="319" />
+        <iniBomb posX="352" posY="301" />
+        <newBomb type="4" posX="111" posY="98" life="2" time="1" />
+    </Level>
+    <Level xAdjust="-13">
+        <bomb type="2" />
+        <bomb type="4" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <iniBomb posX="197" posY="361" />
+        <iniBomb posX="316" posY="411" />
+        <newBomb type="2" posX="356" posY="262" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-37">
+        <bomb type="5" />
+        <newBomb type="4" posX="228" posY="92" life="3" time="1" />
+        <newBomb type="2" posX="232" posY="175" life="2" time="3" />
+    </Level>
+    <Level xAdjust="1">
+        <bomb type="4" />
+        <bomb type="2" />
+        <bomb type="4" />
+        <bomb type="1" />
+        <iniBomb posX="298" posY="184" />
+        <iniBomb posX="342" posY="183" />
+        <iniBomb posX="107" posY="145" />
+    </Level>
+    <Level xAdjust="-40">
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="1" />
+        <iniBomb posX="221" posY="273" />
+        <iniBomb posX="311" posY="147" />
+    </Level>
+    <Level xAdjust="-45">
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="4" />
+        <bomb type="4" />
+        <newBomb type="2" posX="238" posY="237" life="2" time="1" />
+    </Level>
+    <Level xAdjust="-20">
+        <bomb type="4" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="4" />
+        <iniBomb posX="92" posY="106" />
+        <iniBomb posX="398" posY="119" />
+        <newBomb type="5" posX="313" posY="152" life="1" time="4" />
+    </Level>
+    <Level xAdjust="-16">
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="4" />
+        <bomb type="5" />
+        <bomb type="5" />
+    </Level>
+    <Level xAdjust="-32">
+        <bomb type="4" />
+        <bomb type="4" />
+        <bomb type="1" />
+        <iniBomb posX="248" posY="110" />
+        <iniBomb posX="149" posY="100" />
+        <iniBomb posX="103" posY="124" />
+        <iniBomb posX="64" posY="223" />
+        <newBomb type="2" posX="245" posY="406" life="2" time="2" />
+    </Level>
+    <Level xAdjust="-33">
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="4" />
+        <iniBomb posX="241" posY="274" />
+        <iniBomb posX="234" posY="127" />
+        <iniBomb posX="111" posY="199" />
+        <iniBomb posX="347" posY="188" />
+    </Level>
+    <Level xAdjust="-28">
+        <bomb type="1" />
+        <newBomb type="5" posX="126" posY="305" life="1" time="1" />
+        <newBomb type="4" posX="194" posY="260" life="1" time="2" />
+        <newBomb type="1" posX="334" posY="295" life="1" time="4" />
+    </Level>
+    <Level xAdjust="-18">
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="1" />
+        <bomb type="5" />
+        <iniBomb posX="76" posY="408" />
+        <iniBomb posX="69" posY="286" />
+        <iniBomb posX="287" posY="110" />
+        <iniBomb posX="409" posY="133" />
+        <newBomb type="4" posX="450" posY="521" life="1" time="1" />
+    </Level>
+    <Level xAdjust="-44">
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <iniBomb posX="275" posY="64" />
+        <iniBomb posX="131" posY="117" />
+        <newBomb type="4" posX="358" posY="63" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-18">
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <iniBomb posX="240" posY="144" />
+        <newBomb type="2" posX="242" posY="246" life="3" time="3" />
+    </Level>
+    <Level xAdjust="-37">
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="4" />
+        <bomb type="4" />
+        <iniBomb posX="83" posY="331" />
+        <iniBomb posX="119" posY="136" />
+        <iniBomb posX="239" posY="37" />
+        <iniBomb posX="379" posY="239" />
+    </Level>
+    <Level xAdjust="-30">
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <newBomb type="2" posX="236" posY="65" life="3" time="2" />
+        <newBomb type="4" posX="237" posY="145" life="2" time="5" />
+    </Level>
+    <Level xAdjust="-31">
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <newBomb type="4" posX="102" posY="84" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-30">
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <iniBomb posX="159" posY="214" />
+        <iniBomb posX="258" posY="103" />
+        <iniBomb posX="349" posY="184" />
+        <iniBomb posX="335" posY="332" />
+        <iniBomb posX="198" posY="418" />
+        <iniBomb posX="109" posY="332" />
+    </Level>
+    <Level xAdjust="-55">
+        <bomb type="1" />
+        <bomb type="1" />
+        <iniBomb posX="125" posY="196" />
+        <iniBomb posX="126" posY="268" />
+        <newBomb type="1" posX="142" posY="72" life="2" time="1" />
+        <newBomb type="2" posX="368" posY="73" life="2" time="3" />
+        <newBomb type="5" posX="288" posY="218" life="1" time="5" />
+    </Level>
+    <Level xAdjust="-25">
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <newBomb type="4" posX="306" posY="168" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-45">
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="4" />
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="4" />
+        <bomb type="5" />
+    </Level>
+    <Level xAdjust="-28">
+        <bomb type="4" />
+        <bomb type="4" />
+        <bomb type="4" />
+        <newBomb type="2" posX="126" posY="143" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-51">
+        <bomb type="2" />
+        <bomb type="4" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <newBomb type="1" posX="211" posY="70" life="2" time="2" />
+    </Level>
+    <Level xAdjust="-48">
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <newBomb type="2" posX="436" posY="248" life="1" time="1" />
+        <newBomb type="1" posX="61" posY="244" life="1" time="1" />
+        <newBomb type="4" posX="246" posY="29" life="2" time="3" />
+    </Level>
+    <Level xAdjust="-26">
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="4" />
+        <iniBomb posX="246" posY="127" />
+        <iniBomb posX="334" posY="183" />
+    </Level>
+    <Level xAdjust="1">
+        <bomb type="2" />
+        <bomb type="4" />
+        <bomb type="5" />
+        <newBomb type="5" posX="117" posY="372" life="3" time="1" />
+        <newBomb type="1" posX="272" posY="435" life="2" time="4" />
+    </Level>
+    <Level xAdjust="-35">
+        <newBomb type="4" posX="208" posY="128" life="3" time="1" />
+        <newBomb type="2" posX="428" posY="318" life="3" time="1" />
+        <newBomb type="2" posX="57" posY="315" life="1" time="4" />
+    </Level>
+    <Level xAdjust="-54">
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="4" />
+        <newBomb type="1" posX="367" posY="91" life="3" time="1" />
+        <newBomb type="5" posX="97" posY="149" life="1" time="6" />
+    </Level>
+    <Level xAdjust="-43">
+        <bomb type="2" />
+        <bomb type="1" />
+        <newBomb type="2" posX="277" posY="126" life="3" time="1" />
+        <newBomb type="4" posX="80" posY="91" life="2" time="3" />
+    </Level>
+    <Level xAdjust="-21">
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <newBomb type="4" posX="426" posY="136" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-42">
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <iniBomb posX="210" posY="138" />
+        <iniBomb posX="304" posY="228" />
+        <iniBomb posX="152" posY="340" />
+        <newBomb type="4" posX="311" posY="53" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-70">
+        <bomb type="5" />
+        <newBomb type="4" posX="379" posY="109" life="3" time="1" />
+        <newBomb type="2" posX="97" posY="109" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-52">
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="5" />
+        <newBomb type="2" posX="399" posY="111" life="3" time="2" />
+    </Level>
+    <Level xAdjust="-51">
+        <bomb type="5" />
+        <bomb type="4" />
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="4" />
+        <bomb type="5" />
+    </Level>
+    <Level xAdjust="-48">
+        <bomb type="1" />
+        <bomb type="1" />
+        <newBomb type="5" posX="121" posY="208" life="3" time="3" />
+        <newBomb type="1" posX="262" posY="73" life="3" time="1" />
+        <newBomb type="4" posX="360" posY="173" life="1" time="4" />
+    </Level>
+    <Level xAdjust="-46">
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <newBomb type="4" posX="86" posY="137" life="3" time="1" />
+        <newBomb type="5" posX="337" posY="133" life="2" time="4" />
+    </Level>
+    <Level xAdjust="-38">
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="1" />
+    </Level>
+    <Level xAdjust="1">
+        <bomb type="1" />
+        <iniBomb posX="105" posY="381" />
+        <iniBomb posX="119" posY="287" />
+        <iniBomb posX="160" posY="218" />
+        <iniBomb posX="232" posY="185" />
+        <iniBomb posX="315" posY="191" />
+        <iniBomb posX="373" posY="241" />
+        <iniBomb posX="391" posY="326" />
+        <iniBomb posX="347" posY="391" />
+        <iniBomb posX="256" posY="390" />
+        <iniBomb posX="215" posY="312" />
+        <iniBomb posX="267" posY="263" />
+        <iniBomb posX="318" posY="300" />
+    </Level>
+    <Level xAdjust="-42">
+        <bomb type="2" />
+        <bomb type="4" />
+        <bomb type="2" />
+        <bomb type="4" />
+        <bomb type="2" />
+        <newBomb type="5" posX="107" posY="191" life="1" time="2" />
+    </Level>
+    <Level xAdjust="-66">
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <iniBomb posX="113" posY="142" />
+        <iniBomb posX="297" posY="140" />
+        <iniBomb posX="109" posY="302" />
+        <iniBomb posX="338" posY="283" />
+        <newBomb type="5" posX="403" posY="165" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-35">
+        <bomb type="4" />
+        <iniBomb posX="367" posY="160" />
+        <iniBomb posX="370" posY="273" />
+        <iniBomb posX="109" posY="190" />
+        <iniBomb posX="132" posY="330" />
+        <newBomb type="1" posX="245" posY="241" life="3" time="1" />
+        <newBomb type="2" posX="136" posY="128" life="3" time="2" />
+    </Level>
+    <Level xAdjust="1">
+        <bomb type="1" />
+        <bomb type="1" />
+        <iniBomb posX="396" posY="253" />
+        <iniBomb posX="396" posY="333" />
+        <newBomb type="4" posX="240" posY="263" life="3" time="1" />
+        <newBomb type="2" posX="352" posY="265" life="3" time="3" />
+    </Level>
+    <Level xAdjust="-50">
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="4" />
+        <bomb type="5" />
+        <iniBomb posX="284" posY="179" />
+        <newBomb type="2" posX="448" posY="287" life="1" time="1" />
+        <newBomb type="1" posX="78" posY="152" life="1" time="1" />
+    </Level>
+    <Level xAdjust="-51">
+        <bomb type="5" />
+        <newBomb type="1" posX="411" posY="120" life="3" time="1" />
+        <newBomb type="5" posX="298" posY="314" life="3" time="2" />
+        <newBomb type="2" posX="38" posY="61" life="3" time="2" />
+    </Level>
+    <Level xAdjust="-46">
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <iniBomb posX="71" posY="94" />
+        <iniBomb posX="281" posY="69" />
+        <newBomb type="4" posX="386" posY="190" life="3" time="1" />
+    </Level>
+    <Level xAdjust="1">
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="4" />
+        <newBomb type="5" posX="363" posY="309" life="3" time="3" />
+    </Level>
+    <Level xAdjust="-49">
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <newBomb type="2" posX="239" posY="118" life="3" time="1" />
+        <newBomb type="2" posX="438" posY="196" life="1" time="4" />
+    </Level>
+    <Level xAdjust="-48">
+        <bomb type="4" />
+        <iniBomb posX="382" posY="220" />
+        <iniBomb posX="367" posY="158" />
+        <iniBomb posX="336" posY="117" />
+        <iniBomb posX="273" posY="92" />
+        <iniBomb posX="201" posY="102" />
+        <newBomb type="1" posX="54" posY="345" life="3" time="1" />
+        <newBomb type="5" posX="238" posY="208" life="1" time="4" />
+    </Level>
+    <Level xAdjust="-57">
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="4" />
+        <bomb type="5" />
+        <newBomb type="2" posX="119" posY="64" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-45">
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <iniBomb posX="394" posY="229" />
+        <iniBomb posX="91" posY="227" />
+        <newBomb type="2" posX="321" posY="65" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-33">
+        <bomb type="5" />
+        <bomb type="5" />
+        <newBomb type="4" posX="235" posY="123" life="2" time="1" />
+        <newBomb type="2" posX="67" posY="76" life="2" time="3" />
+    </Level>
+    <Level xAdjust="-39">
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <newBomb type="2" posX="341" posY="231" life="2" time="1" />
+        <newBomb type="2" posX="239" posY="46" life="2" time="1" />
+        <newBomb type="4" posX="118" posY="241" life="2" time="3" />
+    </Level>
+    <Level xAdjust="-50">
+        <bomb type="2" />
+        <bomb type="4" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <iniBomb posX="359" posY="224" />
+    </Level>
+    <Level xAdjust="-24">
+        <bomb type="5" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <newBomb type="4" posX="179" posY="229" life="2" time="2" />
+    </Level>
+    <Level xAdjust="-32">
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <newBomb type="4" posX="399" posY="360" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-31">
+        <bomb type="5" />
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="4" />
+        <iniBomb posX="418" posY="249" />
+        <iniBomb posX="339" posY="265" />
+        <iniBomb posX="417" posY="170" />
+        <iniBomb posX="414" posY="93" />
+        <iniBomb posX="392" posY="26" />
+        <iniBomb posX="299" posY="21" />
+        <iniBomb posX="216" posY="19" />
+        <iniBomb posX="131" posY="18" />
+        <iniBomb posX="54" posY="26" />
+        <iniBomb posX="38" posY="127" />
+        <iniBomb posX="32" posY="202" />
+        <iniBomb posX="31" posY="274" />
+        <iniBomb posX="31" posY="356" />
+        <iniBomb posX="34" posY="422" />
+        <iniBomb posX="38" posY="486" />
+        <iniBomb posX="138" posY="501" />
+        <iniBomb posX="224" posY="501" />
+        <iniBomb posX="329" posY="494" />
+        <iniBomb posX="420" posY="487" />
+        <iniBomb posX="423" posY="397" />
+    </Level>
+    <Level xAdjust="1">
+        <iniBomb posX="177" posY="239" />
+        <newBomb type="4" posX="179" posY="241" life="3" time="1" />
+        <newBomb type="2" posX="407" posY="133" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-14">
+        <bomb type="5" />
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="4" />
+        <iniBomb posX="241" posY="103" />
+        <iniBomb posX="306" posY="139" />
+        <iniBomb posX="366" posY="192" />
+        <newBomb type="5" posX="127" posY="93" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-21">
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <iniBomb posX="370" posY="231" />
+        <iniBomb posX="186" posY="372" />
+        <iniBomb posX="163" posY="211" />
+    </Level>
+    <Level xAdjust="-44">
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <newBomb type="4" posX="396" posY="102" life="3" time="1" />
+        <newBomb type="2" posX="66" posY="100" life="3" time="2" />
+    </Level>
+    <Level xAdjust="-41">
+        <bomb type="1" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <newBomb type="4" posX="220" posY="198" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-23">
+        <bomb type="4" />
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <newBomb type="5" posX="166" posY="270" life="3" time="2" />
+    </Level>
+    <Level xAdjust="-37">
+        <bomb type="5" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="2" />
+        <newBomb type="4" posX="32" posY="515" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-42">
+        <bomb type="5" />
+        <newBomb type="4" posX="298" posY="116" life="3" time="1" />
+        <newBomb type="2" posX="83" posY="231" life="3" time="2" />
+        <newBomb type="5" posX="283" posY="380" life="2" time="5" />
+    </Level>
+    <Level xAdjust="-43">
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <iniBomb posX="238" posY="435" />
+        <newBomb type="2" posX="398" posY="81" life="3" time="1" />
+        <newBomb type="2" posX="160" posY="82" life="3" time="1" />
+        <newBomb type="4" posX="283" posY="84" life="3" time="4" />
+    </Level>
+    <Level xAdjust="-25">
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="2" />
+    </Level>
+    <Level xAdjust="1">
+        <bomb type="5" />
+        <newBomb type="4" posX="327" posY="270" life="3" time="1" />
+        <newBomb type="4" posX="154" posY="271" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-44">
+        <bomb type="5" />
+        <bomb type="2" />
+        <iniBomb posX="225" posY="144" />
+        <newBomb type="4" posX="97" posY="117" life="3" time="1" />
+        <newBomb type="5" posX="292" posY="302" life="1" time="3" />
+    </Level>
+    <Level xAdjust="-35">
+        <bomb type="1" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <newBomb type="4" posX="399" posY="106" life="3" time="1" />
+        <newBomb type="2" posX="107" posY="89" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-34">
+        <bomb type="4" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="2" />
+        <bomb type="2" />
+        <iniBomb posX="124" posY="350" />
+        <iniBomb posX="150" posY="316" />
+        <iniBomb posX="161" posY="375" />
+        <iniBomb posX="195" posY="337" />
+        <iniBomb posX="212" posY="391" />
+        <iniBomb posX="246" posY="351" />
+        <iniBomb posX="254" posY="400" />
+        <iniBomb posX="162" posY="147" />
+        <iniBomb posX="317" posY="203" />
+        <newBomb type="4" posX="228" posY="239" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-61">
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <iniBomb posX="133" posY="181" />
+        <newBomb type="4" posX="363" posY="93" life="3" time="1" />
+        <newBomb type="2" posX="107" posY="114" life="2" time="2" />
+    </Level>
+    <Level xAdjust="-34">
+        <bomb type="2" />
+        <bomb type="4" />
+        <bomb type="4" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <newBomb type="4" posX="150" posY="147" life="3" time="1" />
+        <newBomb type="5" posX="322" posY="202" life="1" time="3" />
+    </Level>
+    <Level xAdjust="-27">
+        <bomb type="5" />
+        <bomb type="2" />
+        <bomb type="4" />
+        <newBomb type="1" posX="288" posY="278" life="1" time="2" />
+        <newBomb type="5" posX="168" posY="278" life="1" time="1" />
+        <newBomb type="4" posX="263" posY="76" life="1" time="5" />
+    </Level>
+    <Level xAdjust="1">
+        <bomb type="5" />
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="4" />
+        <bomb type="4" />
+        <bomb type="5" />
+        <iniBomb posX="255" posY="443" />
+        <iniBomb posX="406" posY="331" />
+        <iniBomb posX="279" posY="139" />
+        <iniBomb posX="84" posY="326" />
+        <newBomb type="4" posX="330" posY="188" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-58">
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="4" />
+        <bomb type="4" />
+        <bomb type="4" />
+        <bomb type="5" />
+        <iniBomb posX="103" posY="114" />
+        <iniBomb posX="173" posY="113" />
+        <iniBomb posX="258" posY="112" />
+        <iniBomb posX="335" posY="112" />
+        <iniBomb posX="406" posY="111" />
+        <newBomb type="4" posX="252" posY="232" life="3" time="2" />
+    </Level>
+    <Level xAdjust="-47">
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="4" />
+        <bomb type="4" />
+        <bomb type="5" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <newBomb type="2" posX="363" posY="207" life="1" time="3" />
+    </Level>
+    <Level xAdjust="-53">
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="4" />
+        <bomb type="4" />
+        <iniBomb posX="396" posY="384" />
+        <newBomb type="4" posX="137" posY="95" life="1" time="4" />
+    </Level>
+    <Level xAdjust="-52">
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <iniBomb posX="280" posY="263" />
+        <iniBomb posX="312" posY="281" />
+        <iniBomb posX="341" posY="304" />
+        <iniBomb posX="370" posY="326" />
+        <iniBomb posX="393" posY="356" />
+        <newBomb type="5" posX="159" posY="167" life="2" time="2" />
+        <newBomb type="5" posX="399" posY="62" life="1" time="5" />
+    </Level>
+    <Level xAdjust="-31">
+        <bomb type="4" />
+        <bomb type="4" />
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <newBomb type="4" posX="136" posY="364" life="3" time="1" />
+        <newBomb type="1" posX="329" posY="317" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-49">
+        <bomb type="5" />
+        <newBomb type="5" posX="266" posY="162" life="1" time="1" />
+        <newBomb type="5" posX="341" posY="348" life="1" time="3" />
+        <newBomb type="5" posX="81" posY="294" life="1" time="5" />
+        <newBomb type="5" posX="143" posY="197" life="1" time="7" />
+    </Level>
+    <Level xAdjust="-35">
+        <bomb type="4" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <iniBomb posX="241" posY="350" />
+        <iniBomb posX="130" posY="318" />
+        <iniBomb posX="349" posY="318" />
+        <iniBomb posX="330" posY="186" />
+        <iniBomb posX="149" posY="185" />
+        <newBomb type="4" posX="238" posY="158" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-58">
+        <bomb type="5" />
+        <iniBomb posX="241" posY="242" />
+        <iniBomb posX="237" posY="174" />
+        <iniBomb posX="177" posY="276" />
+        <iniBomb posX="301" posY="277" />
+        <iniBomb posX="363" posY="236" />
+        <iniBomb posX="295" posY="352" />
+        <iniBomb posX="180" posY="352" />
+        <iniBomb posX="113" posY="241" />
+        <iniBomb posX="172" posY="137" />
+        <iniBomb posX="308" posY="135" />
+        <iniBomb posX="368" posY="165" />
+        <iniBomb posX="106" posY="168" />
+        <iniBomb posX="237" posY="391" />
+        <iniBomb posX="199" posY="54" />
+        <iniBomb posX="277" posY="53" />
+        <iniBomb posX="424" posY="295" />
+        <iniBomb posX="386" posY="371" />
+        <iniBomb posX="94" posY="368" />
+        <iniBomb posX="60" posY="300" />
+    </Level>
+    <Level xAdjust="-53">
+        <bomb type="5" />
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="5" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <newBomb type="4" posX="152" posY="147" life="1" time="1" />
+        <newBomb type="2" posX="335" posY="145" life="1" time="1" />
+    </Level>
+    <Level xAdjust="-45">
+        <bomb type="4" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="1" />
+        <bomb type="1" />
+        <bomb type="2" />
+        <iniBomb posX="193" posY="332" />
+        <newBomb type="2" posX="274" posY="167" life="3" time="1" />
+        <newBomb type="1" posX="201" posY="155" life="1" time="3" />
+    </Level>
+    <Level xAdjust="-41">
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="5" />
+        <bomb type="4" />
+        <bomb type="1" />
+        <newBomb type="4" posX="292" posY="75" life="3" time="1" />
+        <newBomb type="1" posX="402" posY="202" life="2" time="4" />
+        <newBomb type="2" posX="87" posY="218" life="2" time="3" />
+    </Level>
+    <Level xAdjust="-46">
+        <bomb type="4" />
+        <bomb type="2" />
+        <bomb type="2" />
+        <bomb type="1" />
+        <iniBomb posX="388" posY="61" />
+        <iniBomb posX="286" posY="82" />
+        <iniBomb posX="407" posY="161" />
+        <newBomb type="4" posX="316" posY="153" life="3" time="1" />
+    </Level>
+    <Level xAdjust="-39">
+        <bomb type="5" />
+        <bomb type="5" />
+        <iniBomb posX="364" posY="396" />
+        <iniBomb posX="405" posY="177" />
+        <iniBomb posX="152" posY="352" />
+        <iniBomb posX="75" posY="257" />
+        <iniBomb posX="225" posY="252" />
+        <iniBomb posX="196" posY="87" />
+        <newBomb type="4" posX="308" posY="220" life="2" time="3" />
+        <newBomb type="1" posX="138" posY="172" life="2" time="5" />
+        <newBomb type="2" posX="262" posY="372" life="2" time="1" />
+    </Level>
+    <Level xAdjust="-59">
+        <bomb type="5" />
+        <iniBomb posX="259" posY="195" />
+        <iniBomb posX="155" posY="294" />
+        <newBomb type="4" posX="114" posY="195" life="3" time="1" />
+        <newBomb type="2" posX="422" posY="123" life="3" time="3" />
+        <newBomb type="1" posX="316" posY="220" life="2" time="5" />
+    </Level>
+    <Level xAdjust="1">
+        <bomb type="1" />
+        <iniBomb posX="376" posY="430" />
+        <iniBomb posX="214" posY="401" />
+        <iniBomb posX="287" posY="439" />
+        <iniBomb posX="147" posY="360" />
+        <iniBomb posX="59" posY="319" />
+        <iniBomb posX="23" posY="237" />
+        <iniBomb posX="38" posY="148" />
+        <iniBomb posX="86" posY="101" />
+        <iniBomb posX="162" posY="80" />
+        <iniBomb posX="246" posY="93" />
+        <iniBomb posX="289" posY="139" />
+        <iniBomb posX="310" posY="203" />
+        <iniBomb posX="300" posY="268" />
+        <newBomb type="4" posX="272" posY="303" life="3" time="1" />
+    </Level>
+</Root>

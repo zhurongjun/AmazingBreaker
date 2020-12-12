@@ -1,0 +1,172 @@
+<STATICIMAGE imgType="0" name="0" path="./picture/UI/0.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="1" path="./picture/UI/1.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="2" path="./picture/UI/2.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="3" path="./picture/UI/3.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="4" path="./picture/UI/4.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="5" path="./picture/UI/5.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="6" path="./picture/UI/6.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="7" path="./picture/UI/7.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="8" path="./picture/UI/8.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="9" path="./picture/UI/9.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="BOMB_Line" path="./picture/bomb/BOMB_Line.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Binner_0" path="./picture/UI/Binner_0.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Binner_1" path="./picture/UI/Binner_1.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Binner_2" path="./picture/UI/Binner_2.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Binner_3" path="./picture/UI/Binner_3.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Binner_4" path="./picture/UI/Binner_4.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Binner_5" path="./picture/UI/Binner_5.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Binner_6" path="./picture/UI/Binner_6.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Binner_7" path="./picture/UI/Binner_7.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Binner_8" path="./picture/UI/Binner_8.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Binner_9" path="./picture/UI/Binner_9.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Binner_Pre" path="./picture/UI/Binner_Pre.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Binner_Yellow0" path="./picture/UI/Binner_Yellow0.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Binner_Yellow1" path="./picture/UI/Binner_Yellow1.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Binner_Yellow2" path="./picture/UI/Binner_Yellow2.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Binner_Yellow3" path="./picture/UI/Binner_Yellow3.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Binner_Yellow4" path="./picture/UI/Binner_Yellow4.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Binner_Yellow5" path="./picture/UI/Binner_Yellow5.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Binner_Yellow6" path="./picture/UI/Binner_Yellow6.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Binner_Yellow7" path="./picture/UI/Binner_Yellow7.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Binner_Yellow8" path="./picture/UI/Binner_Yellow8.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Binner_Yellow9" path="./picture/UI/Binner_Yellow9.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Binner_YellowPre" path="./picture/UI/Binner_YellowPre.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<MULIMAGE imgType="2" title="Bomb_Anim" countFrame="25" colorA="0" colorR="0" colorG="0" colorB="0">
+    <child path="./picture/anim/exp70001.png" />
+    <child path="./picture/anim/exp70002.png" />
+    <child path="./picture/anim/exp70003.png" />
+    <child path="./picture/anim/exp70004.png" />
+    <child path="./picture/anim/exp70005.png" />
+    <child path="./picture/anim/exp70006.png" />
+    <child path="./picture/anim/exp70007.png" />
+    <child path="./picture/anim/exp70008.png" />
+    <child path="./picture/anim/exp70009.png" />
+    <child path="./picture/anim/exp70010.png" />
+    <child path="./picture/anim/exp70011.png" />
+    <child path="./picture/anim/exp70012.png" />
+    <child path="./picture/anim/exp70013.png" />
+    <child path="./picture/anim/exp70014.png" />
+    <child path="./picture/anim/exp70015.png" />
+    <child path="./picture/anim/exp70016.png" />
+    <child path="./picture/anim/exp70017.png" />
+    <child path="./picture/anim/exp70018.png" />
+    <child path="./picture/anim/exp70019.png" />
+    <child path="./picture/anim/exp70020.png" />
+    <child path="./picture/anim/exp70021.png" />
+    <child path="./picture/anim/exp70022.png" />
+    <child path="./picture/anim/exp70023.png" />
+    <child path="./picture/anim/exp70024.png" />
+    <child path="./picture/anim/exp70025.png" />
+</MULIMAGE>
+<STATICIMAGE imgType="0" name="Bomb_Light" path="./picture/bomb/Bomb_Light.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Bombomet1" path="./picture/bomb/Bombomet1.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Cristal_crack1" path="./picture/ice/Cristal_crack1.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Cristal_crack2" path="./picture/ice/Cristal_crack2.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Cristal_crack3" path="./picture/ice/Cristal_crack3.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Cristal_green_1" path="./picture/bomb/Cristal_green_1.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Cristal_violet_1" path="./picture/bomb/Cristal_violet_1.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="CrystalBomb1" path="./picture/bomb/CrystalBomb1.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="CrystalBomb2" path="./picture/bomb/CrystalBomb2.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Splash_BG" path="./picture/background/Splash_BG.jpg" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Wait_0" path="./picture/UI/Wait_0.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Wait_1" path="./picture/UI/Wait_1.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Wait_2" path="./picture/UI/Wait_2.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Wait_3" path="./picture/UI/Wait_3.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Wait_4" path="./picture/UI/Wait_4.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Wait_5" path="./picture/UI/Wait_5.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Wait_6" path="./picture/UI/Wait_6.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Wait_7" path="./picture/UI/Wait_7.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Wait_8" path="./picture/UI/Wait_8.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Wait_9" path="./picture/UI/Wait_9.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="ab_free" path="./picture/UI/ab_free.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="amazing" path="./picture/UI/amazing.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="arrow" path="./picture/UI/arrow.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="back" path="./picture/UI/back.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="band" path="./picture/UI/band.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bar" path="./picture/UI/bar.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bar_h" path="./picture/UI/bar_h.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bg_01" path="./picture/background/bg_01.jpg" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bg_04" path="./picture/background/bg_04.jpg" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bg_05" path="./picture/background/bg_05.jpg" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bg_07" path="./picture/background/bg_07.jpg" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bg_10" path="./picture/background/bg_10.jpg" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bg_13" path="./picture/background/bg_13.jpg" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bg_14" path="./picture/background/bg_14.jpg" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bg_15" path="./picture/background/bg_15.jpg" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bg_17" path="./picture/background/bg_17.jpg" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bg_18" path="./picture/background/bg_18.jpg" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bg_22" path="./picture/background/bg_22.jpg" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bg_23" path="./picture/background/bg_23.jpg" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bg_24" path="./picture/background/bg_24.jpg" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bg_25" path="./picture/background/bg_25.jpg" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bg_28" path="./picture/background/bg_28.jpg" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bg_31" path="./picture/background/bg_31.jpg" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bg_33" path="./picture/background/bg_33.jpg" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bg_34" path="./picture/background/bg_34.jpg" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bg_40" path="./picture/background/bg_40.jpg" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bg_45" path="./picture/background/bg_45.jpg" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bg_light" path="./picture/background/bg_light.jpg" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bomb_cracks" path="./picture/bomb/bomb_cracks.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="cloud" path="./picture/bomb/cloud.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="construction" path="./picture/UI/construction.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="continue" path="./picture/UI/continue.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="cristal_red_1" path="./picture/bomb/cristal_red_1.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="exchange_arrow_h" path="./picture/UI/exchange_arrow_h.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="hlp_tap" path="./picture/UI/hlp_tap.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="kreplenie" path="./picture/UI/kreplenie.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="level" path="./picture/UI/level.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="level_locked" path="./picture/UI/level_locked.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="level_open" path="./picture/UI/level_open.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="levelcomplete_text" path="./picture/UI/levelcomplete_text.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="levelfailed_text" path="./picture/UI/levelfailed_text.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="loading" path="./picture/UI/loading.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="mask_new_384" path="./picture/bomb/mask_new_384.png" colorA="1" colorR="1" colorG="1" colorB="0" />
+<STATICIMAGE imgType="0" name="mask_new_384_sd" path="./picture/bomb/mask_new_384_sd.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="menu_h" path="./picture/UI/menu_h.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="menu_text" path="./picture/UI/menu_text.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="min_90%" path="./picture/UI/min_90%.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="mmflare" path="./picture/UI/mmflare.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="mmflare1" path="./picture/UI/mmflare1.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="mmflare_blue" path="./picture/UI/mmflare_blue.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="mmflare_green" path="./picture/UI/mmflare_green.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="mmflare_red" path="./picture/UI/mmflare_red.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="new_bomb_1" path="./picture/bomb/new_bomb_1.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="new_bomb_2" path="./picture/bomb/new_bomb_2.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="new_bomb_3" path="./picture/bomb/new_bomb_3.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="new_bomb_4" path="./picture/bomb/new_bomb_4.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="new_bomb_5" path="./picture/bomb/new_bomb_5.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="new_flare" path="./picture/bomb/new_flare.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="new_great" path="./picture/UI/new_great.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="new_outstanding" path="./picture/UI/new_outstanding.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="next" path="./picture/UI/next.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="options" path="./picture/UI/options.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="play" path="./picture/UI/play.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="prujiny2" path="./picture/UI/prujiny2.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="replay" path="./picture/UI/replay.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="rocket" path="./picture/bomb/rocket.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="select" path="./picture/UI/select.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="slbow" path="./picture/UI/slbow.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="slstar" path="./picture/UI/slstar.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="small_Star" path="./picture/UI/small_Star.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="stageNum1" path="./picture/UI/stageNum1.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="stageNum2" path="./picture/UI/stageNum2.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="stageNum3" path="./picture/UI/stageNum3.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="stageNum4" path="./picture/UI/stageNum4.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="stageNum5" path="./picture/UI/stageNum5.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="stageNum6" path="./picture/UI/stageNum6.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="stage_label" path="./picture/UI/stage_label.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="star_empty" path="./picture/UI/star_empty.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="superb_perfomance" path="./picture/UI/superb_perfomance.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="treshina1-hd" path="./picture/ice/treshina1-hd.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="treshina10-hd" path="./picture/ice/treshina10-hd.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="treshina11-hd" path="./picture/ice/treshina11-hd.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="treshina12-hd" path="./picture/ice/treshina12-hd.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="treshina2-hd" path="./picture/ice/treshina2-hd.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="treshina3-hd" path="./picture/ice/treshina3-hd.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="treshina4-hd" path="./picture/ice/treshina4-hd.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="treshina5-hd" path="./picture/ice/treshina5-hd.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="treshina6-hd" path="./picture/ice/treshina6-hd.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="treshina8-hd" path="./picture/ice/treshina8-hd.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="treshina9-hd" path="./picture/ice/treshina9-hd.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="triple_green" path="./picture/bomb/triple_green.png" colorA="0" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="zahvat2" path="./picture/UI/zahvat2.png" colorA="0" colorR="0" colorG="0" colorB="0" />
